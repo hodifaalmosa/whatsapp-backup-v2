@@ -1,0 +1,25 @@
+*Usb debugging must be enable on both phones
+*in Xiaomi phones must be 
+enable Allow install apps via usb
+*The Tool dont require Root
+*The Tool solve ban whatsapp number on old phone
+by Transfer whatsapp from unbanned phone to the old
+*The tool will be devolpe in the future
+
+*for Whatsapp Business , 
+the method work only for transfer chats from
+phone to other, but only on phones with
+os 11 or higher , else will not work,
+for the code it will send on
+whatsapp business on the old phone
+from the whatsapp business on the new phone
+after enter code click on restore messages.
+
+*Second adb must be installed,
+it can be found on telegram channel,
+run it , type y then enter , type y then enter,
+then If you had installed adb drivers before type n
+Else type y
+
+*grep files must be copy to adb folder in c:
+it can be found on telegram channel.
